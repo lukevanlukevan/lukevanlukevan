@@ -5,5 +5,6 @@ Notable Repos:<br>
 
 <div>
 <!-- [![Luke Van's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lukevanlukevan)](https://github.com/anuraghazra/github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukevanlukevan"></img> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukevanlukevan"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=lukevanlukevan"></img> 
 </div>
